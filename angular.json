@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "PrimeNo"
+  "defaultProject": "PrimeNo",
+  "cli": {
+    "analytics": "d25941d0-20d0-4a22-9992-8e0a22b6c1fa"
+  }
 }
